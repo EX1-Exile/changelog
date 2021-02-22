@@ -1,0 +1,68 @@
+**MAJOR CHANGES**
+
+- Overhaul to map lighting
+  * Increased brightness
+  * Increased vibrancy
+  * Reduced haze
+
+- Added SMA Weapons Mod Pack
+  * All weapons purchasable from traders
+  
+- NEW ATM Hack Mission
+  * Requires Exile Laptop to initiate hack
+  * Takes 10 minutes to complete hack
+  * Must stay within 150m of ATM
+  * Map notification and update, can be hijacked by other players
+  * 2.5m Poptabs / 150k respect reward
+ 
+- Large revamp of loot
+  * ENVG's / Gas Masks / Special purpose helmet removed from Rad Zone
+  * ENVG's now obtainable from: Shipwreck loot crates & Normal military loot (rare)
+  * Gas Masks now obtainable from: Black Market (500k) & Mission reward crates
+  * Special purpose helmet now obtainable from: Mission reward crates
+  * Stinger missile added to Rad Zone (rare)
+  * Standard military loot improved
+
+- NEW Out of bounds script (replaces previous damage-over-time script)
+  * 60 second warning given to return to map area.
+
+- Added higher respect tiers to high end vehicles, examples;
+  * Pawnee's / Wildcats - 2.5mil respect
+  * AH64 / Superhind / PC9 (EX1) - 7.5mil respect
+  * Jets / Drones - 15mil respect
+  
+- Changes to territory levels
+  * Increased prices of higher level bases substantially
+  * Now goes up to level 11 (costs 25mil from level 10 to 11)
+  * 350 base parts at max level
+  * Increased VG slots (50 at max level)
+  
+- Updated pylon manager
+  * New UI
+  * Now able to create and save loadouts
+  
+- K/D Scoreboard added to escape menu
+
+- NEW Perks system
+  * Perks unlockable via respect
+  * Accessible through XM8
+  * Current version also now accessible through XM8 and still uses EXP
+  
+- NEW Personal Locker system
+  * Able to unlock up to 6 lockers through the new perks system
+  * Located at all Safezone traders (blue lockers)
+  * Scroll on a locker to access the menu, select a locker and wait a few seconds, you will then have access to it's inventory, automatically saves and closes when you walk away
+
+**OTHER CHANGES**
+
+- Metis launcher added to BM (missiles in mil loot)
+- Boat traders added
+- Shipwrecks increased by 2
+- XM8 icon improvements
+- Sensor panels minimum player count removed
+- Removed AGM114's (L Variant)
+- More loot spots at NWAF
+- Changes to NEAF
+- Drone re-arm fix
+- Loadouts moved from equipment trader to lockers
+- Ability to open base doors whilst in combat
