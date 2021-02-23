@@ -28,7 +28,7 @@
 
 - Added higher respect tiers to high end vehicles, examples;
   * Pawnee's / Wildcats - 2.5mil respect
-  * AH64 / Superhind - 7.5mil respect
+  * AH64 / Superhind / PC9 (EX1) - 7.5mil respect
   * Jets / Drones - 15mil respect
   
 - Changes to territory levels
@@ -47,14 +47,22 @@
   * Perks unlockable via respect
   * Accessible through XM8
   * Current version also now accessible through XM8 and still uses EXP
+  * Hangars / Base Spawn / Revive / Lockers / Fast Heal / Master Key
   
 - NEW Personal Locker system
-  * Able to unlock up to 6 lockers through the new perks system
+  * First locker free, able to unlock up to 6 lockers through the new perks system
   * Located at all Safezone traders (blue lockers)
   * Scroll on a locker to access the menu, select a locker and wait a few seconds, you will then have access to it's inventory, automatically saves and closes when you walk away
+  
+ - NEW Virtual Hangar system
+  * First hangar slot free, able to unlock up to 6 slots through the new perks system (air vehicles only)
+  * Located at Utes island
+  * 1 slot virtual garage added to vehicle customs traders at safezones (2mil to unlock, ground vehicles only)
+  
 
 **OTHER CHANGES**
 
+- Price adjustments to vehicles
 - Metis launcher added to BM (missiles in mil loot)
 - Boat traders added
 - Shipwrecks increased by 2
